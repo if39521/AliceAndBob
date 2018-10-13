@@ -1,1 +1,4 @@
-<? echo "Pasdasda" ?>
+<?php 
+echo "Pasdasda"; 
+echo "Ryba";
+?>
